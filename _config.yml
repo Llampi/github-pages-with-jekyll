@@ -1,12 +1,12 @@
-title: ss
-author: GitHuss
-email: your-email@domain.com
+title: Tittle
+author: author
+email: email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  ssssssssssss
-baseurl:
+baseurl:url
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: my twitter
+github_username:  my github
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
